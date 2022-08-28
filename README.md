@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Jorge Linero</h1>
+<h1 align="center">Olá, sou Jorge Linero</h1>
 <h3 align="center">Apaixonado pela tecnologia da informação tanto quanto pela resolução de problemas</h3>
 
 > “_Não existe um problema que não ofereça uma dádiva para você. Você procura os problemas porque precisa das dádivas por ele oferecidas._” ***Richard Bach***
@@ -7,6 +7,8 @@
 <h4 align="left">Meu contato:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-linero-36975b133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-linero-36975b133/" height="30" width="40" /></a>
+
+<a href="mailto:jorge.linero.r@gmail.com"><img width="32" alt="Gmail icon (2020)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>
 </p>
 
 ---
