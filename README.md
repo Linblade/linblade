@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, sou Jorge Linero</h1>
 <h3 align="center">Apaixonado pela tecnologia da informação tanto quanto pela resolução de problemas</h3>
 
+> “_Não existe um problema que não ofereça uma dádiva para você. Você procura os problemas porque precisa das dádivas por ele oferecidas._” ***Richard Bach***
+
 
 <h4 align="left">Meu contato:</h4>
 <p align="left">
